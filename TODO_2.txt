@@ -6,3 +6,4 @@ The benefit of using git and GitHub is that it tracks your progress and versions
 3. What is the difference between 'Git' and 'Github'?
 4. What is the benefit of using git and GitHub?
 5. Will we be using a lot of people's Github code
+6. Is it bad to use the Github desktop app?
