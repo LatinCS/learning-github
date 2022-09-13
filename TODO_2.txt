@@ -7,3 +7,5 @@ The benefit of using git and GitHub is that it tracks your progress and versions
 4. What is the benefit of using git and GitHub?
 5. Will we be using a lot of people's Github code
 6. If two people are working on forks of the same repository at once, how do you get both people's changes
+6. How is GitHub used professional in larger production environments
+7. How do I run code? -Eli
